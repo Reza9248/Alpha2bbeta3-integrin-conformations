@@ -1,0 +1,42 @@
+Condition: Force
+  Total residues >= 2X: 222
+  beta-propeller: 62 residues
+  Thigh: 19 residues
+  Calf-1: 22 residues
+  Calf-2: 35 residues
+  Transmembrane_alpha: 8 residues
+  Beta I: 27 residues
+  Hybrid: 13 residues
+  Psi: 7 residues
+  E1-E4: 13 residues
+  Beta-T: 10 residues
+  Transmembrane_beta: 5 residues
+
+Condition: ForceRGD
+  Total residues >= 2X: 206
+  beta-propeller: 51 residues
+  Thigh: 10 residues
+  Calf-1: 15 residues
+  Calf-2: 47 residues
+  Transmembrane_alpha: 3 residues
+  Beta I: 28 residues
+  Hybrid: 18 residues
+  Psi: 1 residues
+  E1-E4: 13 residues
+  Beta-T: 15 residues
+  Transmembrane_beta: 4 residues
+
+Condition: RGD
+  Total residues >= 2X: 190
+  beta-propeller: 36 residues
+  Thigh: 21 residues
+  Calf-1: 14 residues
+  Calf-2: 38 residues
+  Transmembrane_alpha: 3 residues
+  Beta I: 24 residues
+  Hybrid: 18 residues
+  Psi: 5 residues
+  E1-E4: 10 residues
+  Beta-T: 14 residues
+  Transmembrane_beta: 7 residues
+
